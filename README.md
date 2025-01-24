@@ -8,7 +8,7 @@ Hi human that can read! 👋
   <a href="https://linkedin.com/in/lucascardacci" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a></h2>
-Mathematics Bachelor student | Data Science Diploma
+<h3>Mathematics Bachelor student with focus on Cryptography | Data Science Diploma</h3>
 
 
 I am an advanced Mathematics student with expertise in data science and machine learning. I have a strong analytical and technical background, with academic experience in cryptography and programming. Currently, I am working on a project involving Polynomial Commitments and Zero-Knowledge Proofs and learning Rust.
