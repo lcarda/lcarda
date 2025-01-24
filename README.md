@@ -22,7 +22,7 @@ I am an advanced Mathematics student with expertise in data science and machine 
 - **[Bachelor's Degree in Mathematics](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-matem%C3%A1tica/) |** FaMAF, National University of Córdoba, Argentina
   - Elective courses: Optimization, Data Science and Algebric Topology
 
-- **Diploma in Data Science, Machine Learning, and its Applications |** FaMAF,  National University of Córdoba, Argentina**
+- **Diploma in Data Science, Machine Learning, and its Applications |** FaMAF,  National University of Córdoba, Argentina
 - **PSE Core Program |** Privacy & Scaling Explorations
 <h3>👨‍💻 Skills</h3>
 
