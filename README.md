@@ -19,15 +19,14 @@ I am an advanced Mathematics student with expertise in data science and machine 
 
  <h3>🎓 Education: </h3>
 
-- **[Bachelor's Degree in Mathematics](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-matem%C3%A1tica/) | FaMAF, National University of Córdoba, Argentina**
+- **[Bachelor's Degree in Mathematics](https://www.famaf.unc.edu.ar/academica/grado/licenciatura-en-matem%C3%A1tica/) |** FaMAF, National University of Córdoba, Argentina
   - Elective courses: Optimization, Data Science and Algebric Topology
 
-- **Diploma in Data Science, Machine Learning, and its Applications | FaMAF,  National University of Córdoba, Argentina**
-- **PSE Core Program | Privacy & Scaling Explorations**
-- **zkCity**
+- **Diploma in Data Science, Machine Learning, and its Applications |** FaMAF,  National University of Córdoba, Argentina**
+- **PSE Core Program |** Privacy & Scaling Explorations
 <h3>👨‍💻 Skills</h3>
 
-  **Programming and Markup Languages**
+  - **Programming and Markup Languages**
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
     <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324
@@ -37,7 +36,7 @@ I am an advanced Mathematics student with expertise in data science and machine 
       
       
       
-  **Libraries**
+  - **Libraries**
 
   <p>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -45,7 +44,7 @@ I am an advanced Mathematics student with expertise in data science and machine 
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"></a>
 </p> 
 
-**Software and Tools**
+- **Software and Tools**
 
   <p>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -58,7 +57,12 @@ I am an advanced Mathematics student with expertise in data science and machine 
 </details>
 
 
+<h3> 📖 Seminars: </h3>
 
+- **Foundations and Applications of Zero-Knowledge Proofs 2024 |** ICMS ZKP Workshop, City of Edinburgh, United Kingdom.
+- **LATINCRYPT 2023 |** University of the Armed Forces ESPE, Sangolquí, Ecuador.
+- **ASCRYPTO 2023 |** University of the Armed Forces ESPE, Sangolquí, Ecuador.
+- **INCAcrypto 2023 |** University of the Armed Forces ESPE, Sangolquí, Ecuador
 
 
 <h3>✨ Misc. Information:</h3>
