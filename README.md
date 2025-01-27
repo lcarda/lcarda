@@ -2,7 +2,7 @@
 Hi human that can read! 👋 
 
 
-<h2>I'm Lucas Cardacci | <a href="mailto:lucasdcardacci@gmail.com">
+<h2>I'm Lucas Cardacci |  <a href="mailto:lucasdcardacci@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/lucascardacci" target="_blank">
@@ -12,10 +12,7 @@ Hi human that can read! 👋
 
 
 I am an advanced Mathematics student with expertise in data science and machine learning. I have a strong analytical and technical background, with academic experience in cryptography and programming. Currently, I am working on a project involving Polynomial Commitments and Zero-Knowledge Proofs and learning Rust.
-<div align="center"> 
-
-</div>
-
+ - ✉️ You can contact me at lucasdcardacci@gmail.com 
 
  <h3>🎓 Education: </h3>
 
