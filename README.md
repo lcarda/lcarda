@@ -43,11 +43,10 @@ I am an advanced Mathematics student with expertise in data science and machine 
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white"></a>
-</p> 
+    </p> 
 
 - **Software and Tools**
-
-  <p>
+<p>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
