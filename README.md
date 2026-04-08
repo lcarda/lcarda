@@ -4,18 +4,6 @@ Mathematician working at the intersection of **Applied Cryptography**, **Machine
 
 My background combines rigorous mathematical training with hands-on experience in machine learning pipelines, LLM-based systems, and research on **polynomial commitments** and **zero-knowledge-related constructions**.
 
-<p>
-  <a href="mailto:lucasdcardacci@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/lucascardacci" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/lcarda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ## About me
 
 - 🎓 Mathematics graduate from FaMAF, National University of Córdoba
@@ -91,7 +79,6 @@ Alongside that, I work on machine learning engineering problems such as:
 This GitHub brings together projects, notes, and experiments around:
 
 - applied cryptography
-- zero-knowledge systems
 - machine learning engineering
 - NLP and LLM workflows
 - mathematical computing
@@ -100,10 +87,21 @@ This GitHub brings together projects, notes, and experiments around:
 ## Contact
 
 - 📫 Email: **lucasdcardacci@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/lucascardacci**
-## ✨ Misc. Information
+- <p>
+  <a href="mailto:lucasdcardacci@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/lucascardacci" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lcarda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+## Misc. Information
 - **Languages:** Spanish (native), English ( Intermediate).
-- - **Hobbies:** Listening to music, swimming, embroider, and watching movies.
+- **Hobbies:** Listening to music, swimming, embroider, and watching movies.
 
 ---
 
