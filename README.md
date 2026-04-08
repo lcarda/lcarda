@@ -10,7 +10,7 @@ My background combines rigorous mathematical training with hands-on experience i
 - 🔐 Research-oriented profile focused on **polynomial commitments**, **zero-knowledge proofs**, and cryptographic protocols
 - 🤖 Machine Learning Engineer with experience in real-time pipelines, anomaly detection, computer vision, and RAG systems
 - 🧠 Interested in the intersection of **cryptography, formal reasoning, privacy, and intelligent systems**
-- 🌱 Currently deepening my work in **Rust**, **ZK systems**, and **privacy-preserving computation**
+- 🌱 Currently deepening my work on KZG-based counting and non-membership protocols in *Rust*
 
 ## Research interests
 
